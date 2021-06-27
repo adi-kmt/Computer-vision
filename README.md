@@ -1,6 +1,6 @@
 # Computer-vision
 
-##Projects implemented
+## Projects implemented
 1. [Cassava Plant Classification](https://github.com/kamathis4/Computer-vision/blob/main/Classification/cassava.py)
    (Used pretrianed resnet with LR scheduling on Kaggle dataset)
 2. [Covid Xray Classification](https://github.com/kamathis4/Computer-vision/blob/main/Classification/covid_x_ray.py)
